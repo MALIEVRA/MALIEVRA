@@ -1,6 +1,6 @@
 - Hi, I’m @MALIEVRA
-- Just A Student learning some code and design
-- Nothing Special thx
+- still trying to undestand git and github
+- yeah, nothings here yet
 
 <!---
 MALIEVRA/MALIEVRA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
