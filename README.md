@@ -1,5 +1,5 @@
 - Hi, I’m @MALIEVRA
-- Just A Student learning some code and desain
+- Just A Student learning some code and design
 - Nothing Special thx
 
 <!---
